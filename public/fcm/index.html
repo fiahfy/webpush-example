@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>FCM sample</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="/app.css">
+  </head>
+  <body>
+    <h1>FCM sample</h1>
+    <button disabled>Enable Push Messaging</button>
+    <div>
+      <h5>Subscription</h5>
+      <pre><code id="subscription"></code></pre>
+      <h5>Send push without data payloads</h5>
+      <small>Replace <code>SERVER_KEY</code> to your project server key</small>
+      <pre><code id="cmd1"></code></pre>
+      <h5>Send push with data payloads</h5>
+      <pre><code id="cmd2"></code></pre>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+
+div {
+  display: none;
+}
+code {
+  background-color: #eee;
+  padding: 4px;
+}
+pre code {
+  display: block;
+  word-break: break-all;
+  white-space: pre-wrap;
+  margin: 16px 0;
+  padding: 16px;
+}

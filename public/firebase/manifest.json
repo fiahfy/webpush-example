@@ -1,0 +1,5 @@
+{
+  "short_name": "webpush-sample",
+  "name": "WebPush Sample",
+  "start_url": "/?launcher=true"
+}

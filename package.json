@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "firebase-admin": "^6.0.0",
+    "http-server": "^0.11.1",
+    "web-push": "^3.3.2"
+  },
+  "scripts": {
+    "dev": "http-server"
+  }
+}
