@@ -1,6 +1,6 @@
-# webpush-sample
+# webpush-example
 
-> Sample project for Web Push
+> Example project for Web Push
 
 ## Get Started
 ``` bash

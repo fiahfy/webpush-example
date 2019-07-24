@@ -1,6 +1,6 @@
 {
-  "short_name": "webpush-sample",
-  "name": "WebPush Sample",
+  "short_name": "webpush-example",
+  "name": "WebPush Example",
   "start_url": "/?launcher=true",
   "gcm_sender_id": "SENDER_ID"
 }
